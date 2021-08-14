@@ -39,7 +39,7 @@ export default function Register() {
                      placeholder="Cidade" />
                 
                 <input 
-                placeholder="UF" />
+                placeholder="Estado" />
                 
                  </div>
                  <button className="button" type="submit">
